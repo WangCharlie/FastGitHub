@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.exe
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.deps.json
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.runtimeconfig.json
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.dll
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\bin\Debug\netcoreapp3.0\FastGitHub.pdb
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\obj\Debug\netcoreapp3.0\FastGitHub.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\obj\Debug\netcoreapp3.0\FastGitHub.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\obj\Debug\netcoreapp3.0\FastGitHub.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\obj\Debug\netcoreapp3.0\FastGitHub.dll
+C:\Users\Administrator\source\repos\FastGitHub\src\FastGitHub\FastGitHub\obj\Debug\netcoreapp3.0\FastGitHub.pdb
